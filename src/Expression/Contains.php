@@ -5,7 +5,7 @@ namespace Common\Specification\Expression;
 /**
  * Evaluates if a string contains a substring.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class Contains extends Comparison
 {

@@ -7,7 +7,7 @@ use Common\Specification\Visitor\Visitor;
 /**
  * Represents a comparison expression.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 abstract class Comparison implements Expression
 {

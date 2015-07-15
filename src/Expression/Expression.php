@@ -7,7 +7,7 @@ use Common\Specification\Visitor\Visitor;
 /**
  * Represents a expression.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 interface Expression
 {

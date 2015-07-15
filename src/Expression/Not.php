@@ -5,7 +5,7 @@ namespace Common\Specification\Expression;
 /**
  * Represents a negation expression.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class Not extends AndX
 {

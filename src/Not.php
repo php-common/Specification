@@ -5,7 +5,7 @@ namespace Common\Specification;
 /**
  * Represents a negation specification.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class Not extends Composite
 {

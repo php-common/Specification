@@ -8,7 +8,7 @@ use Common\Specification\Exception\UnexpectedTypeException;
 /**
  * Base implementation for specifications.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 abstract class AbstractSpecification implements Specification
 {

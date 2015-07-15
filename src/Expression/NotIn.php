@@ -5,7 +5,7 @@ namespace Common\Specification\Expression;
 /**
  * Evaluates if a value does not exists in an array.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class NotIn extends Comparison
 {

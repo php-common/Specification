@@ -5,7 +5,7 @@ namespace Common\Specification\Expression;
 /**
  * Evaluates if a value is equals to another after type juggling.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class EqualTo extends Comparison
 {

@@ -9,7 +9,7 @@ use Common\Specification\Expression\Expression;
 /**
  * Represents an expression graph walker/traverser.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 interface Visitor
 {

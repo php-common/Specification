@@ -7,7 +7,7 @@ use Common\Specification\Expression\Expression;
 /**
  * Represents a specification of business rules, where objects can be checked against.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  *
  * @see    http://martinfowler.com/apsupp/spec.pdf
  * @see    https://en.wikipedia.org/wiki/Specification_pattern

@@ -5,7 +5,7 @@ namespace Common\Specification\Expression;
 /**
  * Represents a conjunction expression.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class AndX extends Composite
 {

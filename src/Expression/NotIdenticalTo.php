@@ -5,7 +5,7 @@ namespace Common\Specification\Expression;
 /**
  * Evaluates if a value is not identical to another.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class NotIdenticalTo extends Comparison
 {

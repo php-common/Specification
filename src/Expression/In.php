@@ -5,7 +5,7 @@ namespace Common\Specification\Expression;
 /**
  * Evaluates if a value exists in an array.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class In extends Comparison
 {

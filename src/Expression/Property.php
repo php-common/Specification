@@ -6,7 +6,7 @@ use Common\Specification\Exception\UnexpectedTypeException;
 /**
  * Represents an object property.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class Property
 {

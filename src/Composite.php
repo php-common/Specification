@@ -9,7 +9,7 @@ use InvalidArgumentException;
 /**
  * Represents a composite specification.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 abstract class Composite extends AbstractSpecification
 {

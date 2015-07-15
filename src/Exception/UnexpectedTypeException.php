@@ -5,7 +5,7 @@ namespace Common\Specification\Exception;
 /**
  * Represents a type mismatch exception.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class UnexpectedTypeException extends \InvalidArgumentException
 {
