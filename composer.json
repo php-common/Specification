@@ -1,0 +1,25 @@
+{
+  "name": "phpcommon/specification",
+  "type": "library",
+  "description": "Powerful implementation of the Specification pattern packaged in a standalone library written in PHP.",
+  "keywords": ["specification", "pattern"],
+  "homepage": "https://github.com/php-common",
+  "license": "MIT",
+  "authors": [{
+    "name": "Marcos Passos",
+    "email": "marcos@marcospassos.com"
+  }],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Common\\Specification\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  }
+}
